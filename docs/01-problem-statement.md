@@ -19,7 +19,7 @@ There is no digital system to:
 - Generate customer receipts
 - Provide a clear overview for employees
 
-## Objetives
+## Objectives
 
 The goal of this project is to create a digital system to manage flower orders efficiently, with the following objectives:
 
