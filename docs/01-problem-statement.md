@@ -32,7 +32,7 @@ The goal of this project is to create a digital system to manage flower orders e
 ## Out of Scope
 
 - Online payment processing
-- Notificaitons or alerts
+- Notifications or alerts
 - Multi-location inventory management
 - Mobile app interface
 
