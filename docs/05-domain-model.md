@@ -5,9 +5,9 @@
 This document defines the core domain model of the Floristeria Order Management System.
 It describes the main business entities, their responsibilities, relationships, and key rules.
 
-The domain model represents **business concepts**, independent of technical implemantation details.
+The domain model represents **business concepts**, independent of technical implementation details.
 
---
+---
 
 ## Core Domain Concepts
 
@@ -106,8 +106,8 @@ CREATED -> IN_PROGRESS -> READY -> COLLECTED
 - CREATED: Order has been registered but not yet prepared
 - IN_PROGRESS: Order is being prepared
 - READY: Order is ready for pickup
-- COLLECTED: Order has been collected to the customer
-- CANCELED: Order has been canceled before collect
+- COLLECTED: Order has been collected by the customer
+- CANCELED: Order has been canceled before collection
 
 ### Business Rules
 - An order cannot transition from COLLECTED or CANCELED to any other state

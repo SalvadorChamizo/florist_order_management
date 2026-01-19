@@ -16,10 +16,8 @@ The system is implemented as a **modular monolithic application** following a **
 This approach was chosen to:
 - Minimize unnecessary complexity
 - Maintain clear separation of responsibilities
-- Enable fast development
-and easy deployment
+- Enable fast development and easy deployment
 - Support future evolution without major redesign
-
 ---
 
 ## Architectural Style

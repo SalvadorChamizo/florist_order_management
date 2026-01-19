@@ -28,7 +28,7 @@ This allows future evolution without breaking existing clients.
 All endpoints require authentication unless explicitly stated otherwise.
 
 Authentication is handled via:
-- Token-based authentication (detaild defined in security design)
+- Token-based authentication (details defined in security design)
 
 The API assumes that authenticated user context is available for authorization.
 
@@ -65,8 +65,8 @@ Customer creation is handled as part of the order creation workflow.
     },
     "productId": "uuid",
     "pickupDate": "2026-11-01",
-    "paymentStatus": "false",
-    "notes": "10 Red roses with ornaments",
+    "paymentStatus": "UNPAID",
+    "notes": "12 Red roses with ornaments",
     "totalPrice": 45.00
 }
 ```

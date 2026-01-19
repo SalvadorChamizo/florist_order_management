@@ -56,7 +56,7 @@ The following features are intentionally excluded from the MVP:
 ### Advanced Analytics
 - Sales reports
 - Performance metrics
-- Historical trend analysys
+- Historical trend analysis
 
 ### Multi-Platform Support
 - Mobile applications
